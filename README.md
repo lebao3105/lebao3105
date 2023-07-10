@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lebao3105/lebao3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Le Bao Nguyen, a 15 y/o Vietnamese (UTC +7 🕖). I have my interests in:
 
-Here are some ideas to get you started:
+* Programming
+* Operating systems: Historical OSes are quite beautiful too:>
+* Beautify my desktop
+* Any other cool stuff:3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm currently learning to:**
+
+* Make an iOS tweak with Swift
+* Maybe learn to use web technologies? I don't have any idea about this
+* Improve my English
+
+**My projects:**
+
+* textworker (formely texteditor): A cross-platform Python texteditor. Also available on [GitLab](https://gitlab.com/lebao3105/texteditor).
+* GNOME Shell 3.78: A customized GNOME Shell 3.38 with modern style
+* app1(cli): My first project ever, written in Pascal and C#
+* lfsbuild: My attempt to make my own Linux from scratch, but failed:(
+* UWPQuickShortcuts: This is quite old and unfinished. It contains shortcuts to a specific Windows setting.
+
+## Contact me
+
+* GitHub/GitLab profile (@lebao3105)
+* Twitter: @lebao_roofs
+* Discord: @lebao12
