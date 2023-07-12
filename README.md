@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Le Bao Nguyen, a 15 y/o Vietnamese (UTC +7 🕖). I have my interests in:
+I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have my interests in:
 
 * Programming
 * Operating systems: Historical OSes are quite beautiful too:>
@@ -9,7 +9,7 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese (UTC +7 🕖). I have my interests in:
 
 **I'm currently learning to:**
 
-* Make an iOS tweak with Swift
+* Make an iOS tweak with Swift (now it needs a prefs page + some fixes)
 * Maybe learn to use web technologies? I don't have any idea about this
 * Improve my English
 
@@ -19,10 +19,13 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese (UTC +7 🕖). I have my interests in:
 * Commands-collection: System commands in Pascal
 * GNOME Shell 3.78: A customized GNOME Shell 3.38 with modern style
 * app1(cli): My first project ever, written in Pascal and C#
+* newyearcounter: A console C++ project to calculate time remaining to the next year
 * lfsbuild: My attempt to make my own Linux from scratch, but failed:(
 * UWPQuickShortcuts: This is quite old and unfinished. It contains shortcuts to a specific Windows setting.
 
 ## Contact me
+
+Our local time zone is UTC +7. Whetever just contact me if needed:)
 
 * GitHub/GitLab profile (@lebao3105)
 * Twitter: @lebao_roofs
