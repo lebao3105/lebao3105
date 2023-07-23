@@ -15,7 +15,7 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have my interests in:
 
 **My projects:**
 
-* textworker (formely texteditor): A cross-platform Python texteditor. Also available on [GitLab](https://gitlab.com/lebao3105/texteditor).
+* textworker (fomerly texteditor): A cross-platform Python texteditor. Also available on [GitLab](https://gitlab.com/lebao3105/texteditor).
 * Commands-collection: System commands in Pascal
 * GNOME Shell 3.78: A customized GNOME Shell 3.38 with modern style
 * app1(cli): My first project ever, written in Pascal and C#
