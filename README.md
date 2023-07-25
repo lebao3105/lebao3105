@@ -3,7 +3,7 @@
 I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have my interests in:
 
 * Programming
-* Operating systems: Historical OSes are quite beautiful too:>
+* Operating systems: Historical/Hobby OSes are quite beautiful:>
 * Beautify my desktop
 * Any other cool stuff:3
 
@@ -21,7 +21,7 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have my interests in:
 * app1(cli): My first project ever, written in Pascal and C#
 * newyearcounter: A console C++ project to calculate time remaining to the next year
 * lfsbuild: My attempt to make my own Linux from scratch, but failed:(
-* UWPQuickShortcuts: This is quite old and unfinished. It contains shortcuts to a specific Windows setting.
+* UWPQuickShortcuts: This is quite old and unfinished. It helps us go to a specific Windows setting well.
 
 ## Contact me
 
