@@ -9,7 +9,7 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have interests in:
 
 **I'm currently learning to:**
 
-* Make an iOS tweak with Swift (now it needs a prefs page + some fixes)
+* Make an iOS tweak with Swift (yeah it stucks)
 * Maybe learn to use web technologies? I don't have any idea about this
 * Improve my English
 
@@ -31,3 +31,7 @@ Our local time zone is UTC +7. Whatever just contact me if needed:)
 * GitHub/GitLab profile (@lebao3105)
 * Twitter: @lebao_roofs
 * Discord: @lebao12
+
+## What else?
+
+See my gists and iOS tweaks list;)
