@@ -7,17 +7,13 @@ I'm Le Bao Nguyen, a 15 y/o Vietnamese. I have interests in:
 * Beautify my desktop
 * Any other cool stuff:3
 
-**I'm currently learning to:**
-
-* Maybe learn to use web technologies? I don't have any idea about this
-* Improve my English
-* Improve my programming skills
+I often look for projects around and outside GitHub, and have contributions for some of them!
 
 ## What's here?
 
 My (forked) code, of course:)
 
-There are some iOS tweaks such as SBarOverride (selfmade) and Little12 (forked from Ryan Nair). Their debs are placed in my [repo](https://lebao3105.github.io/repo), try!
+There are some iOS tweaks such as SBarOverride (selfmade) and Little12 (forked from Ryan Nair). All debs are placed in my [repo](https://lebao3105.github.io/repo), try!
 
 Also my desktop projects - in Python, C#, C++ (just one), Pascal.
 
