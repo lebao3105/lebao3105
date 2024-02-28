@@ -1,102 +1,91 @@
 configuration {
 	modi: "window,drun,combi,ssh,run,filebrowser";
-	font: "hack 11";
+	font: "Hack 12";
 	combi-modi: "window,drun,ssh";
-	terminal: "kitty";
+	terminal: "alacritty";
 }
 
-@theme "dt"
+@theme "gruvbox-dark-hard"
 
-element-text, element-icon , mode-switcher {
-  background-color: inherit;
-  text-color:       inherit;
+element-text, element-icon, mode-switcher {
+	background-color: inherit;
+	text-color: inherit;
 }
 
 window {
-  height: 500px;
-  width: 700px;
-  border: 3px;
-  location: center;
-  x-offset: 0px;
-  y-offset: 0px;
-  border-color: white;
-  background-color: @bg-col;
-  border-radius: 30px;
+	height: 500px;
+	width: 700px;
+	border: 2px;
+	location: center;
+	border-color: white;
+	background-color: #00000000;
+	border-radius: 15px;
 }
 
 mainbox {
-  background-color: @transparent;
+	background-color: #00000000;
 }
 
 inputbar {
-  children: [prompt,entry];
-  background-color: @transparent;
-  color: @green;
-  border-radius: 4px;
-  font: "Fira Code Bold 13";
-  padding: 2px;
+	children: [prompt, entry];
+	background-color: inherit;
 }
 
 prompt {
-  background-color: @transparent;
-  padding: 6px;
-  text-color: white;
-  border-radius: 5px;
-  margin: 20px 0px 0px 20px;
+	background-color: inherit;
+	padding: 6px;
+	text-color: white;
+	border-radius: 5px;
+	margin: 20px 0px 0px 20px;
 }
 
 textbox-prompt-colon {
-  expand: false;
-  str: ":";
+	expand: true;
+	str: ":";
 }
 
 entry {
-  padding: 6px;
-  margin: 20px 0px 0px 10px;
-  background-color: @transparent;
-  color: white;
+	padding: 6px;
+	margin: 20px 0px 0px 10px;
+	background-color: inherit;
+	color: white;
 }
 
 listview {
-  border: 0px 0px 0px;
-  padding: 6px;
-  margin: 10px;
-  columns: 1;
-  lines: 4;
-  background-color: @transparent;
+	columns: 2;
+	lines: 4;
+	background-color: inherit;
 }
 
 element {
-  padding: 10px;
-  background-color: @transparent;
-  text-color: @fg-col;
+	padding: 10px;
+	background-color: inherit;
+	text-color: #e3e3e3;
 }
 
 element-icon {
-  size: 25px;
+	size: 25px;
 }
 
 element selected {
-  border-radius: 5px;
-  text-color: #000000;
-  color: inherit;
-  background-color: @fg-col;
-  border: 2px;
+	border-radius: 5px;
+	text-color: #000000;
+	background-color: #e3e3e3;
+	border: 2px;
 }
 
 mode-switcher {
-  spacing: 0;
+	spacing: 0;
 }
 
 button {
-  padding: 10px;
-  background-color: @bg-col-light;
-  text-color: black;
-  vertical-align: 0.5; 
-  horizontal-align: 0.5;
+	padding: 10px;
+	background-color: #1e2229;
+	text-color: black;
+	vertical-align: 0.5; 
+	horizontal-align: 0.5;
 }
 
 button selected {
-  background-color: @bg-col;
-  text-color: @blue;
+	background-color: #00000088;
 }
