@@ -17,9 +17,11 @@ There are some iOS tweaks such as SBarOverride (selfmade) and Little12 (forked f
 
 Also my desktop projects - in Python, C#, C++ (just one), Pascal.
 
-My personal website, err outdated: https://lebao3105.github.io/.
+My personal website, outdated: https://lebao3105.github.io/.
 
 This lebao3105/lebao3105 repo? Not only this profile README, I also have dotfiles for Linux desktop!
+
+There are also many projects in GitLab, for example: JADGenerator for BlackBerry OS 7-, TextWorker (moved from this GitHub profile).
 
 ## Contact me
 
