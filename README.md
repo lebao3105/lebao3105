@@ -1,20 +1,16 @@
 ## Hi there!
 
-I'm Le Bao Nguyen, a 16 y/o Vietnamese. I have interests in computer stuff, mostly softwares like OSes.
+I'm Le Bao Nguyen, a 16 y/o Vietnamese. I have interests in computer stuff, mostly softwares.
 
 I'm a developer myself.
 
-## What's here?
+## Anything here?
 
-My (forked) code, of course:)
+My {,forked} code:)
 
-There are some iOS tweaks such as SBarOverride (selfmade) and Little12 (forked from Ryan Nair). All debs are placed in my [repo](https://lebao3105.github.io/repo), try!
-
-Also my desktop projects - in Python, C#, C++, Pascal.
+I have projects for iOS (jailbroken one), desktop and cross-platform (mobile & desktop). This repository has dotfiles for Linux/BSD desktop. r/unixporn stuff;)
 
 My personal website: https://lebao3105.github.io
-
-This lebao3105/lebao3105 repo? Not only this profile README, I also have dotfiles for Linux desktop!
 
 There are also many projects in GitLab, check it out!
 
