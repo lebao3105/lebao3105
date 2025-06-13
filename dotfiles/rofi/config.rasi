@@ -1,8 +1,8 @@
 configuration {
-	modi: "window,drun,combi,ssh,run,filebrowser";
+	modes: "window,drun,combi,ssh,run,filebrowser,windowcd";
 	font: "Hack 12";
-	combi-modi: "window,drun,ssh";
-	terminal: "alacritty";
+	combi-modi: "window,drun,ssh,windowcd";
+	terminal: "xfce4-terminal";
 }
 
 @theme "gruvbox-dark-hard"
@@ -18,7 +18,7 @@ window {
 	border: 2px;
 	location: center;
 	border-color: white;
-	background-color: #00000000;
+	background-color:rgba(0, 0, 0, 0.37);
 	border-radius: 15px;
 }
 
