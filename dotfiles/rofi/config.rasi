@@ -1,91 +1,76 @@
 configuration {
 	modes: "window,drun,combi,ssh,run,filebrowser,windowcd";
-	font: "Hack 12";
+	font: "JetBrainsMono Nerd Font 12";
 	combi-modi: "window,drun,ssh,windowcd";
 	terminal: "xfce4-terminal";
 }
 
-@theme "gruvbox-dark-hard"
-
-element-text, element-icon, mode-switcher {
-	background-color: inherit;
-	text-color: inherit;
-}
+/* @theme "gruvbox-light" */
 
 window {
 	height: 500px;
 	width: 700px;
 	border: 2px;
 	location: center;
-	border-color: white;
-	background-color:rgba(0, 0, 0, 0.37);
-	border-radius: 15px;
-}
-
-mainbox {
-	background-color: #00000000;
+	border-color: #b589d6;
+	background-color: #262626;
 }
 
 inputbar {
 	children: [prompt, entry];
-	background-color: inherit;
+	background-color: #262626;
+	border: 2px;
+	border-color: #b589d6;
 }
 
 prompt {
 	background-color: inherit;
 	padding: 6px;
 	text-color: white;
-	border-radius: 5px;
-	margin: 20px 0px 0px 20px;
-}
-
-textbox-prompt-colon {
-	expand: true;
-	str: ":";
 }
 
 entry {
 	padding: 6px;
-	margin: 20px 0px 0px 10px;
 	background-color: inherit;
-	color: white;
+	placeholder: "Shujin-sama, do anything you want to~~~";
+	text-color: white;
 }
 
 listview {
 	columns: 2;
 	lines: 4;
-	background-color: inherit;
+	background-color: #141414;
+}
+
+scrollbar {
+	handle-color: #b589d6;
 }
 
 element {
 	padding: 10px;
-	background-color: inherit;
-	text-color: #e3e3e3;
+	children: [ element-text, element-icon ];
 }
 
 element-icon {
 	size: 25px;
 }
 
-element selected {
+element-text {
+	text-color: #e3e3e3;
+}
+
+element.normal.normal {
+	background-color: #141414;
+}
+
+element.alternate.normal {
+	background-color: #141414;
+}
+
+element.selected.normal {
 	border-radius: 5px;
-	text-color: #000000;
-	background-color: #e3e3e3;
+	text-color: #6f6f6f;
 	border: 2px;
-}
-
-mode-switcher {
-	spacing: 0;
-}
-
-button {
-	padding: 10px;
-	background-color: #1e2229;
-	text-color: black;
-	vertical-align: 0.5; 
-	horizontal-align: 0.5;
-}
-
-button selected {
-	background-color: #00000088;
+	border-color: #b589d6;
+	background-color: #262626;
 }

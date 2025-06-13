@@ -11,11 +11,11 @@ export XMODIFIERS="@im=fcitx"
 export QT_IM_MODULE=fcitx
 export XCURSOR_PATH="$HOME/.local/share/icons"
 export XCURSOR_THEME=Adwaita
+export GTK_THEME="Dracula-pink-accent"
+export ICON_THEME="Tela-red-dark"
+export PYTHONPATH="$HOME/.local/lib/python3.13/site-packages:$PYTHONPATH"
 
-alias sudo=doas
-
-run picom --backend xrender
 run fcitx5 -d
 run flameshot
-run blueman-applet
-run feh --bg-scale --no-fehbg --randomize ~/.wallpaper/*
+run conky
+run feh --bg-scale --no-fehbg ~/.wallpaper/macOS_26_Dark.jpg
