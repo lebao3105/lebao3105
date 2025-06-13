@@ -16,11 +16,13 @@
 
 * AwesomeWM (*)
 * Feh (as I somehow can't set the wallpaper using AwesomeWM's `gears`)
-* Rofi, modified from old config + used colors from [here](https://github.com/refact0r/system24).
+* Rofi, modified from old config + used colors from [here](https://github.com/refact0r/system24)
 * Xfce Terminal
 * Flameshot (no configuration)
 * Conky (no configuration)
 * Feh (no configuration)
+
+> Screenshots are available [here](screenshots/).
 
 \* For the application title bar, clone this [repository](https://github.com/mut-ex/awesome-wm-nice) to `~/.config/awesome/nice`, open `init.lua` and type in two lines:
 
