@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Le Bao Nguyen, a 16 y/o Vietnamese. I have interests in computer stuff, mostly softwares.
+I'm Le Bao Nguyen, a ~~16~~ 17 y/o Vietnamese. I have interests in computer stuff, mostly softwares.
 
 I'm a developer myself.
 
