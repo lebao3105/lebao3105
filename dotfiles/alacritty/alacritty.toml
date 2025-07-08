@@ -1,15 +1,37 @@
-[window]
-opacity = 0.7
+# Base16 oomox-System32 - alacritty color config
+# oomox-System32
 
-[scrolling]
-history = 100000
+[colors]
+draw_bold_text_with_bright_colors = false
 
-[font]
-normal = { family = "Hack" }
-size = 12.5
+# Default colors
+[colors.primary]
+background = '0x121212'
+foreground = '0xffffff'
 
-[cursor]
-style = { shape = "Underline", blinking = "On" }
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x121212'
+cursor = '0xffffff'
 
-[mouse]
-hide_when_typing = true
+# Normal colors
+[colors.normal]
+black = '0x121212'
+red = '0xff0000'
+green = '0x00ff00'
+yellow = '0xffff00'
+blue = '0x4545ff'
+magenta = '0xb22db2'
+cyan = '0x00ffff'
+white = '0xffffff'
+
+# Bright colors
+[colors.bright]
+black = '0x888888'
+red = '0xffff00'
+green = '0x505050'
+yellow = '0x9a9a9a'
+blue = '0x000000'
+magenta = '0xffffff'
+cyan = '0xeb6b00'
+white = '0xffffff'
