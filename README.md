@@ -1,27 +1,38 @@
 ## Hi there!
 
-I'm Le Bao Nguyen, a ~~16~~ 17 y/o Vietnamese. I have interests in computer stuff, mostly softwares.
-
-I'm a developer myself.
+I'm Le Bao Nguyen, a Vietnamese developer+student.
 
 ## Anything here?
 
 My {,forked,archived} code:)
 
-Many projects are archived due to many reasons, such as impractical or takes too much times (as I write them all by **myself**).
+They are vary speaking of used programming languages: Pascal (rarely, no new projects w/ it), C++, C#, and Python (which I do not use anymore), TypeScript (not presented here).
 
-However, there are projects on my personal GitLab, check [them](https://gitlab.com/lebao3105) out!
+All are not very actively developed like they were years ago, some even got archived/deleted due to themself being impractical & time-wasting.
+Some are simply too hard for me to do alone. ***(as I mostly do stuff myself)***
 
-One of my first projects, texteditor - which is now textworker, has its own [GitLab](https://gitlab.com/textworker).
+Below are projects that you might want to take a look at, although this should be done in my website:
 
-I have projects for iOS (jailbroken one), desktop and cross-platform (mobile & desktop). This repository has dotfiles for Linux/BSD desktop. r/unixporn stuff;)
+## First projects
 
-My personal website: https://lebao3105.github.io
+* Textworker (formerly `texteditor`): A text editor. Formerly to be written in Python, it now has a space on [GitLab](https://gitlab.com/textworker). Archived;
+* App1cli: My first project **ever**. Check it [out](https://github.com/lebao3105/app1cli).
 
-## Contact me
+## Past projects
 
-Our local time zone is UTC +7. Whatever just contact me if needed:)
+* [LFSBuild](https://github.com/lebao3105/lfsbuild): Linux From Scratch build scripts - partially complete. Archived;
+* [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete. Archived;
+* [Swifile](https://github.com/lebao3105/Swifile-FileManager): A file manager for iOS, it (optionally) uses Pascal! Will never be completed. Archived;
+* Some {,forked} iOS tweaks and such. All are archived as I do not use iOS anymore (unwillingly);
+* [Charms Bar port](https://github.com/lebao3105/charms-bar-port) and [CMDInjector](https://github.com/lebao3105/CMD.Injector). Two of my biggest attempts in writing code.
 
-* GitHub/GitLab profile (@lebao3105)
-* Twitter: @lebao_roofs
-* Discord: @lebao12
+## Current projects
+
+* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+;
+* [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. No, literally - it implements LocalSend's protocol;
+* [CommandsCollection](https://github.com/lebao3105/Commands-collection): A collection of commands, written in Pascal;
+* Some in my [GitLab](https://gitlab.com/lebao3105).
+
+My personal website is [here](https://lebao3105.github.io).
+
+This repository (lebao3105/lebao3105) has some [dotfiles](dotfiles/) for Linux desktops.
