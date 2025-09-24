@@ -15,12 +15,12 @@ Some are simply too hard for me to do alone. ***(as I mostly do stuff myself)***
 
 Below are projects that you might want to take a look at, although this should be done in my website:
 
-## First projects
+### First projects
 
 * Textworker (formerly `texteditor`): A text editor. Formerly to be written in Python, it now has a space on [GitLab](https://gitlab.com/textworker). Archived;
 * App1cli: My first project **ever**. Check it [out](https://github.com/lebao3105/app1cli).
 
-## Past projects
+### Past projects
 
 * [LFSBuild](https://github.com/lebao3105/lfsbuild): Linux From Scratch build scripts - partially complete. Archived;
 * [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete. Archived;
@@ -28,7 +28,7 @@ Below are projects that you might want to take a look at, although this should b
 * Some {,forked} iOS tweaks and such. All are archived as I do not use iOS anymore (unwillingly);
 * [Charms Bar port](https://github.com/lebao3105/charms-bar-port) and [CMDInjector](https://github.com/lebao3105/CMD.Injector). Two of my biggest attempts in writing code.
 
-## Current projects
+### Current projects
 
 * [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is private (I'm NOT the owner, it will be opened when it's OK to do so);
 * [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. No, literally - it implements LocalSend's protocol;
@@ -38,3 +38,12 @@ Below are projects that you might want to take a look at, although this should b
 My personal website is [here](https://lebao3105.github.io).
 
 This repository (lebao3105/lebao3105) has some [dotfiles](dotfiles/) for Linux desktops.
+
+## Code style
+
+I tend to do cross-platform, and performance is a must - **especially** when devices (phones + PC) nowadays are getting slower due to the content (apps, photos, docs) inside it, and
+a casual user may not go to Settings and turn off background / run-on-startup apps.
+
+I also care about what library to use, what do I missing from C++ standard library. Or say, I'm a nerd and wants to use everything I've got.
+
+That's why my projects are slow (NOT speaking of its performance, but sometimes it is).
