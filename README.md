@@ -1,6 +1,8 @@
 ## Hi there!
 
-I'm Le Bao Nguyen, a Vietnamese developer+student.
+I'm Le Bao Nguyen, a Vietnamese developer+student. I am a Hanoian, in case you want to ask;)
+
+I do care about softwares (but not enough to call me good) & music (not enough to call me good), and some other stuff (not enough to call me good too, damn).
 
 ## Anything here?
 
@@ -28,7 +30,7 @@ Below are projects that you might want to take a look at, although this should b
 
 ## Current projects
 
-* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+;
+* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is private (I'm NOT the owner, it will be opened when it's OK to do so);
 * [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. No, literally - it implements LocalSend's protocol;
 * [CommandsCollection](https://github.com/lebao3105/Commands-collection): A collection of commands, written in Pascal;
 * Some in my [GitLab](https://gitlab.com/lebao3105).
