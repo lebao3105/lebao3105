@@ -22,18 +22,20 @@ Below are projects that you might want to take a look at, although this should b
 
 ### Past projects
 
-* [LFSBuild](https://github.com/lebao3105/lfsbuild): Linux From Scratch build scripts - partially complete. Archived;
-* [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete. Archived;
+* [LFSBuild](https://github.com/lebao3105/lfsbuild): Linux From Scratch build scripts - partially complete;
+* [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete;
 * [Swifile](https://github.com/lebao3105/Swifile-FileManager): A file manager for iOS, it (optionally) uses Pascal! Will never be completed. Archived;
-* Some {,forked} iOS tweaks and such. All are archived as I do not use iOS anymore (unwillingly);
+* Some {,forked} iOS tweaks and such - I don't use iOS anymore (at least for now, unwillingly);
 * [Charms Bar port](https://github.com/lebao3105/charms-bar-port) and [CMDInjector](https://github.com/lebao3105/CMD.Injector). Two of my biggest attempts in writing code.
+* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is private (I'm NOT the owner, it will be opened when it's OK to do so);
 
 ### Current projects
 
-* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is private (I'm NOT the owner, it will be opened when it's OK to do so);
-* [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. No, literally - it implements LocalSend's protocol;
+* [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. ~~No, literally - it implements LocalSend's protocol~~ (\*);
 * [CommandsCollection](https://github.com/lebao3105/Commands-collection): A collection of commands, written in Pascal;
 * Some in my [GitLab](https://gitlab.com/lebao3105).
+
+\*: The protocol is implemented [here](https://gitlab.com/lebao3105/LocalTalkSrv).
 
 My personal website is [here](https://lebao3105.github.io).
 
