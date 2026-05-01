@@ -8,7 +8,7 @@ I do care about softwares (but not enough to call me good) & music (not enough t
 
 My {,forked,archived} code:)
 
-They are vary speaking of used programming languages: Pascal (rarely, no new projects w/ it), C++, C#, and Python (which I do not use anymore), TypeScript (not presented here).
+They are vary speaking of used programming languages: Pascal (no new projects w/ it), C++, C#, and Python (which I do not use anymore), TypeScript (not presented here).
 
 All are not very actively developed like they were years ago, some even got archived/deleted due to themself being impractical & time-wasting.
 Some are simply too hard for me to do alone. ***(as I mostly do stuff myself)***
@@ -23,19 +23,22 @@ Below are projects that you might want to take a look at, although this should b
 ### Past projects
 
 * [LFSBuild](https://github.com/lebao3105/lfsbuild): Linux From Scratch build scripts - partially complete;
-* [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete;
+* [BleachBit](https://github.com/lebao3105/bleachbit): BleachBit the file system cleaner, with wxPython for maximum happiness that you do NOT have to pack bunch of GTK files. Almost complete (\*);
 * [Swifile](https://github.com/lebao3105/Swifile-FileManager): A file manager for iOS, it (optionally) uses Pascal! Will never be completed. Archived;
 * Some {,forked} iOS tweaks and such - I don't use iOS anymore (at least for now, unwillingly);
-* [Charms Bar port](https://github.com/lebao3105/charms-bar-port) and [CMDInjector](https://github.com/lebao3105/CMD.Injector). Two of my biggest attempts in writing code.
-* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is private (I'm NOT the owner, it will be opened when it's OK to do so);
+* [Charms Bar port](https://github.com/lebao3105/charms-bar-port) and [CMDInjector](https://github.com/lebao3105/CMD.Injector). Two of my biggest attempts in ~~writing~~ refactoring code.
+* [Windows8Group](https://github.com/windows8group)'s WhatsWin: A WhatsApp client for Windows Phone 8.1+. Currently it is DEAD;
+
+\*: But then I realized that there is a little to no chance that BleachBit will accept this change,
+because, well, are the maintainers there even know about wxPython? Surely it could be worth ditching GTK for an universal API though.
 
 ### Current projects
 
-* [LocalTalk](https://github.com/lebao3105/LocalTalk): LocalSend for Windows Phone 8.1+. ~~No, literally - it implements LocalSend's protocol~~ (\*);
+* [LocalTalk](https://gitlab.com/lebao3105/LocalTalk): C++ implementation of LocalSend's protocol (\*);
 * [CommandsCollection](https://github.com/lebao3105/Commands-collection): A collection of commands, written in Pascal;
 * Some in my [GitLab](https://gitlab.com/lebao3105).
 
-\*: The protocol is implemented [here](https://gitlab.com/lebao3105/LocalTalkSrv).
+\*: There is a [fork](https://github.com/naoNao89/LocalTalk) of it, which is a Windows Phone 8.1 application.
 
 My personal website is [here](https://lebao3105.github.io).
 
@@ -49,3 +52,5 @@ a casual user may not go to Settings and turn off background / run-on-startup ap
 I also care about what library to use, what do I missing from C++ standard library. Or say, I'm a nerd and wants to use everything I've got.
 
 That's why my projects are slow (NOT speaking of its performance, but sometimes it is).
+
+I do care about project structure. A clear project structure will say what it does without any comments.
